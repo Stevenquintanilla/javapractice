@@ -1,4 +1,4 @@
-package JavaPractice;
+package javapractice;
 
 public class DiagonalStar {
 

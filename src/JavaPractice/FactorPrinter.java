@@ -1,4 +1,4 @@
-package JavaPractice;
+package javapractice;
 
 public class FactorPrinter {
     public static void printFactors(int number){

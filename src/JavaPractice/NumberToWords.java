@@ -1,4 +1,4 @@
-package JavaPractice;
+package javapractice;
 
 public class NumberToWords {
     public static void numberToWords(int number){

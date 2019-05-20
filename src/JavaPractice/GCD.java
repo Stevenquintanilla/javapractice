@@ -1,4 +1,4 @@
-package JavaPractice;
+package javapractice;
 
 public class GCD {
     public static int getGreatestCommonDivisor(int first, int second) {
